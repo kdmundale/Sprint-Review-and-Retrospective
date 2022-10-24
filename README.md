@@ -1,2 +1,9 @@
 # Sprint-Review-and-Retrospective
 Sprint Review and Retrospective for CS250 Course 
+
+When a client comes to you with an idea or concept for a piece of software, the totality of the final version can seem a daunting task to complete. By breaking down the major features of the software into smaller units of development, or user stories, these features become more digestible and more organizable for the team.
+A user story, as so named, represents a task a future user would like to accomplish within the software. For example, “As a user, I would like to be able to register as a new user and then log in to the program.” This slice then becomes an independent, self-contained portion that can be completed within a given sprint period. 
+I truly appreciate the Scrum-Agile approach to the SDLC. The principles of this development system focus on the product's quality while also considering the well-being of the development team and its members. I also appreciate the ability to change as the project is working, allowing room for mistakes, new ideas, and direction changes that will ultimately lead to a better product and appreciative clients. Transparency on the development team level and with the client throughout development inspires confidence and trust. 
+Principles of honesty and personal accountability are key to becoming a solid team member. I believe that there is room for growth in everyone, so an established skill set and level of expertise can be extremely helpful to the team, but are not worth much when the team members have no faith or trust in the individual who possesses that knowledge. 
+Owning your own shortcomings takes more strength than touting your successes. 
+![image](https://user-images.githubusercontent.com/55110504/197427311-0b3ba591-3044-4c21-ba96-c03524249ff9.png)
